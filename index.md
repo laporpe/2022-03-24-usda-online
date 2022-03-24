@@ -10,11 +10,11 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "March 24 & 31, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "12:00 pm - 4:00 pm EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "10:00 am - 6:00 pm EST"   (The meeting room will open an hour early on 3/24 for questions) # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-03-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-03-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Thomas Guignard", "Mary-Francis LaPorte","Jonathan Shao","Amanda Hulse-Kemp"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Brian Mack", "Keo Corak"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Brian Mack", "Keo Corak", "Sara Duke"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mflaporte@ucdavis.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-03-24-usda-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
